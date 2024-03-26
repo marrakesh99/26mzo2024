@@ -14,8 +14,8 @@
 #knitr::kable
 #shiny
 #reticulate use python with R
-
-
+#dlookr diagnose, explore and repair your data quick
+#DataExplorer
 
 
 #ml3
@@ -23,7 +23,8 @@
 #data.table
 
 #caret
-
+#e1071
+#h20
 
 
 
